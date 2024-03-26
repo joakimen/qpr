@@ -44,7 +44,7 @@ Exit if:
 ## Example
 
 With the following circumstance:
-- `GIT_USER_PREFIX` with value `baconator`
+- `GIT_USER_PREFIX` env var set with value `baconator`
 - Jira credentials (user, token, host) configured, and issue `ABC-123` selected after invoking `qpr`
 
 ```bash
