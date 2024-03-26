@@ -37,8 +37,8 @@ Exit if:
 
 ## Flags
 
-- `-v`: print some information
-- `--dry-run`: dry run, print generated commit message, branch name and PR title
+- `-v`: print some debug information
+- `--dry-run`: dry run, print flags and generated commit message, branch name and PR title
 - `--skip-jira`: skip Jira issue API lookup and selection
 
 ## Example
